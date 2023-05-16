@@ -114,7 +114,7 @@
     {
       "name": "haushalt-enriched-numbers",
       "format": "csv",
-      "path": "haushalt-enriched-numbers.csv",
+      "path": "https://storage.openspending.org/wesel/haushalt-enriched-numbers.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 4808400,
       "dialect": {
